@@ -29,6 +29,7 @@ Bagian 2: Membuat API dengan JSON menggunakan PHP
    ![Screenshot apijson](images/12.png)
 
 4. Mengakses API
+
    GET
    ![Screenshot apijson](images/13.png)
 
